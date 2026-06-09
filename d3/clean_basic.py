@@ -13,6 +13,7 @@ from typing import Optional
 
 import pandas as pd
 print("Hello World")
+print("Hello from feature")
 
 def strip_object_columns(df: pd.DataFrame) -> pd.DataFrame:
     obj_cols = df.select_dtypes(include=[object, "string"]).columns
