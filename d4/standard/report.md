@@ -28,7 +28,7 @@
 - 就是: 4
 - 啊: 2
 
-## Sample records containing停顿词
+## Sample records containing 停顿词
 - {"session": "S100", "uid": "u001", "role": "user", "text": "  嗯…那个…帮我把月报导出成PDF，要【简洁版】  ", "ts": "2026-06-04 09:00:00"}
 - {"session": "S101", "uid": "U002", "role": "user", "text": "呃…就是…以后回复能不能别用 emoji 啊 🙏😅", "ts": "2026/6/4 10:15"}
 - {"session": "S102", "uid": "u003", "role": "user", "text": "然后然后帮我查：奇麟 系统 怎么 更新 驱动？？？", "ts": "2026年6月4日 14:00"}
