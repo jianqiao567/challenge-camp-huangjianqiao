@@ -1,0 +1,13 @@
+# Ignore raw sensitive D2 source files
+user_behavior.json
+tool_result.json
+
+# Common sensitive file patterns
+*.key
+*.pem
+*.secret
+.env
+
+# Temp files
+*.log
+*.tmp
