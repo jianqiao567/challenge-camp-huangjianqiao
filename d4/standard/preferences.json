@@ -1,0 +1,98 @@
+[
+  {
+    "pref_id": "P1",
+    "uid": "u001",
+    "pref_key": "output_style",
+    "pref_value": "简洁、少废话",
+    "version": "v1",
+    "note": "从对话 S100 抽取"
+  },
+  {
+    "pref_id": "P2",
+    "uid": "u001",
+    "pref_key": "output_style",
+    "pref_value": "详细、带数据表格",
+    "version": "v2",
+    "note": "用户纠正 @@@"
+  },
+  {
+    "pref_id": "P3",
+    "uid": "U002",
+    "pref_key": "emoji_policy",
+    "pref_value": "禁用",
+    "version": "v1",
+    "note": "句首有 呃…就是…"
+  },
+  {
+    "pref_id": "P4",
+    "uid": "u003",
+    "pref_key": "search_scope",
+    "pref_value": "奇麟系统/驱动",
+    "version": "v1",
+    "note": "含错别字 奇麟"
+  },
+  {
+    "pref_id": "P5",
+    "uid": "u001",
+    "pref_key": "output_style",
+    "pref_value": "简洁、少废话",
+    "version": "v1",
+    "note": "重复记录"
+  },
+  {
+    "pref_id": "P6",
+    "uid": "",
+    "pref_key": "security_level",
+    "pref_value": "高",
+    "version": "v1",
+    "note": "uid 缺失"
+  },
+  {
+    "pref_id": "P7",
+    "uid": "U005",
+    "pref_key": "meeting_minutes_format",
+    "pref_value": "三段式：背景、决定、待办",
+    "version": "v1",
+    "note": "用户明确要求记住"
+  },
+  {
+    "pref_id": "P8",
+    "uid": "U005",
+    "pref_key": "meeting_minutes_format",
+    "pref_value": "bullet 列表",
+    "version": "v2",
+    "note": "仅本次例外，不应覆盖长期偏好"
+  },
+  {
+    "pref_id": "P9",
+    "uid": "u002",
+    "pref_key": "emoji_policy",
+    "pref_value": "允许少量 emoji",
+    "version": "v0",
+    "note": "管理员导入旧偏好，与用户表达冲突"
+  },
+  {
+    "pref_id": "P10",
+    "uid": "u006",
+    "pref_key": "privacy_policy",
+    "pref_value": "不保存测试手机号",
+    "version": "v1",
+    "note": "从 S105 抽取"
+  },
+  {
+    "pref_id": "P11",
+    "uid": "u003",
+    "pref_key": "driver_update_entry",
+    "pref_value": "系统更新",
+    "version": "v1",
+    "note": "旧知识"
+  },
+  {
+    "pref_id": "P12",
+    "uid": "u003",
+    "pref_key": "driver_update_entry",
+    "pref_value": "驱动管理器",
+    "version": "v2",
+    "note": "用户纠正，需覆盖旧知识"
+  }
+]
