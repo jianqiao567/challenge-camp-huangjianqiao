@@ -12,7 +12,7 @@ import sys
 from typing import Optional
 
 import pandas as pd
-
+print("Hello World")
 
 def strip_object_columns(df: pd.DataFrame) -> pd.DataFrame:
     obj_cols = df.select_dtypes(include=[object, "string"]).columns
